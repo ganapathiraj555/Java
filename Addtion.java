@@ -9,4 +9,4 @@ public class Addtion {
 		int b = sc.nextInt();
 		System.out.println("Sum of two number:" + (a + b));
 	}
-}
+} 
